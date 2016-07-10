@@ -1,0 +1,257 @@
+[ 2016-07-11T00:05:31+08:00 ] 127.0.0.1 127.0.0.1 GET /index/index/hello
+[ log ] test.jd.com/index/index/hello [运行时间：0.030373096466064s] [吞吐率：32.92req/s] [内存消耗：1,086.98kb] [文件加载：25]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'hello',
+  ),
+)
+[ info ] [ LANG ] /Users/panxinwu/work/thinkapi/thinkphp/lang/zh-cn.php
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/Users/panxinwu/work/thinkapi/runtime/log/',
+)
+
+[ 2016-07-11T00:05:54+08:00 ] 127.0.0.1 127.0.0.1 GET /index/index/hello
+[ log ] test.jd.com/index/index/hello [运行时间：0.031583070755005s] [吞吐率：31.66req/s] [内存消耗：1,086.99kb] [文件加载：25]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'hello',
+  ),
+)
+[ info ] [ LANG ] /Users/panxinwu/work/thinkapi/thinkphp/lang/zh-cn.php
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/Users/panxinwu/work/thinkapi/runtime/log/',
+)
+
+[ 2016-07-11T00:06:02+08:00 ] 127.0.0.1 127.0.0.1 GET /index/index/hello
+[ log ] test.jd.com/index/index/hello [运行时间：0.012431859970093s] [吞吐率：80.44req/s] [内存消耗：1,088.48kb] [文件加载：25]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'hello',
+  ),
+)
+[ info ] [ LANG ] /Users/panxinwu/work/thinkapi/thinkphp/lang/zh-cn.php
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/Users/panxinwu/work/thinkapi/runtime/log/',
+)
+
+[ 2016-07-11T00:06:27+08:00 ] 127.0.0.1 127.0.0.1 GET /index/index/userInfo
+[ log ] test.jd.com/index/index/userInfo [运行时间：0.014691114425659s] [吞吐率：68.07req/s] [内存消耗：964.09kb] [文件加载：19]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'userInfo',
+  ),
+)
+[ info ] [ RUN ] Method [ <user> public method userInfo ] {
+  @@ /Users/panxinwu/work/thinkapi/apps/index/controller/Index.php 11 - 15
+}
+
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/Users/panxinwu/work/thinkapi/runtime/log/',
+)
+
+[ 2016-07-11T00:06:36+08:00 ] 127.0.0.1 127.0.0.1 GET /index/index/userInfo
+[ log ] test.jd.com/index/index/userInfo [运行时间：0.015193939208984s] [吞吐率：65.82req/s] [内存消耗：964.02kb] [文件加载：19]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'userInfo',
+  ),
+)
+[ info ] [ RUN ] Method [ <user> public method userInfo ] {
+  @@ /Users/panxinwu/work/thinkapi/apps/index/controller/Index.php 11 - 15
+}
+
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/Users/panxinwu/work/thinkapi/runtime/log/',
+)
+
+[ 2016-07-11T00:08:10+08:00 ] 127.0.0.1 127.0.0.1 GET /index/index/userInfo
+[ log ] test.jd.com/index/index/userInfo [运行时间：0.022518157958984s] [吞吐率：44.41req/s] [内存消耗：964.02kb] [文件加载：19]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'userInfo',
+  ),
+)
+[ info ] [ RUN ] Method [ <user> public method userInfo ] {
+  @@ /Users/panxinwu/work/thinkapi/apps/index/controller/Index.php 11 - 15
+}
+
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/Users/panxinwu/work/thinkapi/runtime/log/',
+)
+
+[ 2016-07-11T00:36:48+08:00 ] 127.0.0.1 127.0.0.1 GET /index/index/userInfo
+[ log ] test.jd.com/index/index/userInfo [运行时间：0.0169358253479s] [吞吐率：59.05req/s] [内存消耗：963.97kb] [文件加载：19]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'userInfo',
+  ),
+)
+[ info ] [ RUN ] Method [ <user> public method userInfo ] {
+  @@ /Users/panxinwu/work/thinkapi/apps/index/controller/Index.php 11 - 15
+}
+
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/Users/panxinwu/work/thinkapi/runtime/log/',
+)
+
+[ 2016-07-11T01:06:58+08:00 ] 127.0.0.1 127.0.0.1 GET /index/index/userInfo?bdstoken=296837c7ff5e88969b57750f523bd59a&channel=chunlei&web=1&app_id=250528&logid=MTQ2ODE3MDQxODM3MTAuMjQ2ODYxNzA3NTk5OTQ4Mg==&clienttype=0
+[ log ] test.jd.com/index/index/userInfo?bdstoken=296837c7ff5e88969b57750f523bd59a&channel=chunlei&web=1&app_id=250528&logid=MTQ2ODE3MDQxODM3MTAuMjQ2ODYxNzA3NTk5OTQ4Mg==&clienttype=0 [运行时间：0.028475999832153s] [吞吐率：35.12req/s] [内存消耗：965.50kb] [文件加载：19]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'userInfo',
+  ),
+)
+[ info ] [ RUN ] Method [ <user> public method userInfo ] {
+  @@ /Users/panxinwu/work/thinkapi/apps/index/controller/Index.php 11 - 15
+}
+
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/Users/panxinwu/work/thinkapi/runtime/log/',
+)
+
+[ 2016-07-11T01:07:12+08:00 ] 127.0.0.1 127.0.0.1 GET /index/index/userInfo
+[ log ] test.jd.com/index/index/userInfo [运行时间：0.019041061401367s] [吞吐率：52.52req/s] [内存消耗：963.97kb] [文件加载：19]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'userInfo',
+  ),
+)
+[ info ] [ RUN ] Method [ <user> public method userInfo ] {
+  @@ /Users/panxinwu/work/thinkapi/apps/index/controller/Index.php 11 - 15
+}
+
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/Users/panxinwu/work/thinkapi/runtime/log/',
+)
+
+[ 2016-07-11T01:15:09+08:00 ] 127.0.0.1 127.0.0.1 GET /index/index/userInfo
+[ log ] test.jd.com/index/index/userInfo [运行时间：0.021008968353271s] [吞吐率：47.60req/s] [内存消耗：969.84kb] [文件加载：19]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'userInfo',
+  ),
+)
+[ info ] [ RUN ] Method [ <user> public method userInfo ] {
+  @@ /Users/panxinwu/work/thinkapi/apps/index/controller/Index.php 11 - 51
+}
+
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/Users/panxinwu/work/thinkapi/runtime/log/',
+)
+
+[ 2016-07-11T01:15:11+08:00 ] 127.0.0.1 127.0.0.1 GET /index/index/userInfo
+[ log ] test.jd.com/index/index/userInfo [运行时间：0.012305974960327s] [吞吐率：81.26req/s] [内存消耗：969.94kb] [文件加载：19]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'userInfo',
+  ),
+)
+[ info ] [ RUN ] Method [ <user> public method userInfo ] {
+  @@ /Users/panxinwu/work/thinkapi/apps/index/controller/Index.php 11 - 51
+}
+
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/Users/panxinwu/work/thinkapi/runtime/log/',
+)
+
+[ 2016-07-11T01:15:41+08:00 ] 127.0.0.1 127.0.0.1 GET /index/index/userInfo
+[ log ] test.jd.com/index/index/userInfo [运行时间：0.016777992248535s] [吞吐率：59.60req/s] [内存消耗：969.95kb] [文件加载：19]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'userInfo',
+  ),
+)
+[ info ] [ RUN ] Method [ <user> public method userInfo ] {
+  @@ /Users/panxinwu/work/thinkapi/apps/index/controller/Index.php 11 - 51
+}
+
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/Users/panxinwu/work/thinkapi/runtime/log/',
+)
+
+[ 2016-07-11T01:15:58+08:00 ] 127.0.0.1 127.0.0.1 GET /index/index/userInfo
+[ log ] test.jd.com/index/index/userInfo [运行时间：0.018271207809448s] [吞吐率：54.73req/s] [内存消耗：964.02kb] [文件加载：19]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'userInfo',
+  ),
+)
+[ info ] [ RUN ] Method [ <user> public method userInfo ] {
+  @@ /Users/panxinwu/work/thinkapi/apps/index/controller/Index.php 11 - 51
+}
+
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/Users/panxinwu/work/thinkapi/runtime/log/',
+)
+
+[ 2016-07-11T01:16:10+08:00 ] 127.0.0.1 127.0.0.1 GET /index/index/userInfo
+[ log ] test.jd.com/index/index/userInfo [运行时间：0.021049976348877s] [吞吐率：47.51req/s] [内存消耗：969.95kb] [文件加载：19]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'userInfo',
+  ),
+)
+[ info ] [ RUN ] Method [ <user> public method userInfo ] {
+  @@ /Users/panxinwu/work/thinkapi/apps/index/controller/Index.php 11 - 51
+}
+
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/Users/panxinwu/work/thinkapi/runtime/log/',
+)
+
